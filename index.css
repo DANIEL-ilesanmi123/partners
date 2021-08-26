@@ -1,0 +1,64 @@
+ body{
+ 	background-color: white;
+    }
+.parent-section{
+	display: flex;
+}
+
+.section-1{
+	background-color: white;
+	height: 20px;
+	width: 50%;
+}
+
+
+.section-2{
+	background-color: darkorange;
+	height: 20px;
+	width: 20%;
+
+}
+
+#box{
+	background-color: darkorange;
+	width: 60%;
+}
+.subtitle{
+	border-radius: 10px;
+}
+#submit-button{
+ 	background-color: darkorange;
+ 	color: white;
+ 	border: 1px solid blue;
+ 	border-radius: 10px;
+ 		height: 40px;
+ 	width: 100px;
+ }
+ #box{
+     height: 10px;
+     background: darkorange;
+     width: 60px;
+ }
+ .subtitle{
+ 	color: darkblue;
+ 	font-size: 20px;
+ }
+ #title{
+ 	color: darkblue;
+ 	font-size: 30px;
+ }
+ #freepik{
+ 	color: dimgrey;
+ }
+ #thinker{
+ 	background-color: dark orange;
+ 	padding-top: 5%;
+ 	padding-bottom: 5%;
+ }
+ #section-2-image{
+ 	background-color: darkorange;
+ 	padding-top: 5%;
+ 	padding-bottom: 5%;
+ 	padding-right: 5%;
+ 	padding-left: 5%;
+ }
